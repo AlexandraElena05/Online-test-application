@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### What was implemented
+-the user can not participate to the quizz withought registration\
+-the user then chooses what level of difficulty he/she wants and by pressing a button, the user goes to take the quiz\
+-the user see the one question at a time, moving to the next question by pressing a button\
+-a JSON with questions and their answears\
+-at the end of the quiz the user submits his answears and the results should be calculated and shown to the user at the end of the quiz and how many correct answears he/she has\
